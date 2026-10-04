@@ -1,0 +1,13 @@
+{
+  "name": "Cerdos by LOMI — DEMO",
+  "short_name": "Cerdos DEMO",
+  "description": "Demo de control de engorde de cerdos con datos ficticios",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "orientation": "any",
+  "icons": [
+    { "src": "img/logo.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" }
+  ]
+}
